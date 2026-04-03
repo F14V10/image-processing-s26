@@ -39,7 +39,7 @@ To get the latest assignments into your repository see [how to sync a fork](http
 Paste a link to your repository into the MyCampus assignment box.
 Make sure that we have read rights on your repository.
 
-Please give us read access to your repository. Add `sundermann` and `goehring` on Github
+Please give us read access to your repository. Add `goehring` on Github
 or `drgoehring` on FU GitLab.
 
 Now choose either the Docker container or PyCharm to set up your environment
